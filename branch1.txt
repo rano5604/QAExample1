@@ -2,4 +2,8 @@ welcome to branch1.
 update in branch1.
 update in branch2.
 
+<<<<<<< HEAD
 update by demo1.
+=======
+update by demo2.
+>>>>>>> demo2
